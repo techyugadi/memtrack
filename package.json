@@ -9,7 +9,7 @@
 	"engines": { "node": ">= 0.6.0" },
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/techyugadi/node-memtrack.git"
+		"url": "https://github.com/techyugadi/memtrack.git"
 	},
 	"main": "index.js",
 	"licenses": [ { "type": "MIT License" } ],
