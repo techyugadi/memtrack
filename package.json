@@ -1,0 +1,23 @@
+{
+	"name": "memtrack",
+	"description": "Plot memory usage of a Node.js program over time. Highlight memory leaks and leaking objects.",
+	"version": "0.1.5",
+	"author": {
+		"name": "TechYugadi IT Solutions and Consulting (www.techyugadi.com)",
+		"email": "techyugadi@gmail.com"
+	},
+	"engines": { "node": ">= 0.6.0" },
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/techyugadi/node-memtrack.git"
+	},
+	"main": "index.js",
+	"licenses": [ { "type": "MIT License" } ],
+	"dependencies": {
+		"memwatch": "0.2.2",
+		"connect": "2.7.4",
+		"connect-route": "0.1.3",
+		"socket.io": "0.9.14",
+		"debug" : "*"
+	}
+}

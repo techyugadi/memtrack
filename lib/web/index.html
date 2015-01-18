@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>
+			memtrack : Memory Usage Tracker for Node.js
+		</title>
+		<link rel="stylesheet" type="text/css" href="css/plotstyle.css">
+	</head>
+	<body>
+		<h3>memtrack : Memory Usage Tracking for Node.js</h3>
+
+		<div>
+			<p id="status"></p>
+			<p id="main"></p>
+			<p id="pid"></p>
+
+			<p id="alert"></p>
+		</div>
+
+		<div id="bound">
+			<div id="plotdiv">
+			</div>
+		</div>
+
+		<p id="hdts"></p>
+
+		<div id="heapdiffbytes">
+		</div>
+
+		<div id="heapdiffcount">
+		</div>
+
+		<script src="/js/jquery-1.11.2.min.js"></script>
+		<script src="/socket.io/socket.io.js"></script>
+		<!--[if lte IE 8]><script language="javascript" type="text/javascript" src="/js/flot/excanvas.min.js"></script><![endif]-->
+		<script type="text/javascript" src="js/flot/jquery.flot.min.js"></script>
+		<script type="text/javascript" src="js/flot/jquery.flot.time.min.js"></script>
+		<script type="text/javascript" src="js/flot/jquery.flot.tooltip.min.js"></script>
+		<script type="text/javascript" src="/js/flot/jquery.flot.axislabels.js"></script>
+		<script type="text/javascript" src="js/liveupdate.js"></script>
+
+	</body>
+</html>

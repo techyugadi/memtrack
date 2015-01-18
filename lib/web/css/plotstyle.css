@@ -1,0 +1,36 @@
+#bound {
+	width: 450px;
+	height: 480px;
+	overflow-x: scroll;
+	border: 1px solid black;
+}
+
+#plotdiv {
+	width: 450px;
+	height: 470px;
+	/*border: 1px solid black;*/
+	margin: 0;	
+	padding: 0;
+}
+
+h3 {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+p#status {
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+} 
+
+p#main, p#pid {
+    font-family: "Courier New", Courier, monospace;
+    color: orange;
+} 
+
+#heapdiffbytes, #heapdiffcount {
+	width: 1320px;
+	height: 330px;
+	/*border: 1px solid black;*/
+	margin: 0;	
+	padding: 0;
+}
