@@ -38,6 +38,12 @@ To obtain additional debug messages at runtime, run your node js program as foll
 require('memtrack')({port:7373, memInterval:180000});
 ```
 
+# Additional Features
+
+You will receive an alert on the memtrack webpage, if the heap memory used exceeds 50% of your RAM.
+
+At least three hours of memory stats are saved in memory while your Node program is running. So, if you start your Node.js program and then connect to memtrack from a browser much later, you still get graphical view of the most recent memory usage stats.
+
 # Testing
 
 An example program has been taken from the memwatch source. The relevant file is tests/leaky.js . To see how memtrack works, run the command : node leaky , and point your browser to http://localhost:7575 (Allow for a delay of about 5 minutes for any useful data to show up.)
