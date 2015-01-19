@@ -27,10 +27,16 @@ p#main, p#pid {
     color: orange;
 } 
 
+p#hdts {
+    margin: 6px;
+    font-family: "Courier New", Courier, monospace;
+    color: orange;
+}
+
 #heapdiffbytes, #heapdiffcount {
 	width: 1320px;
 	height: 330px;
 	/*border: 1px solid black;*/
-	margin: 0;	
+	margin: 15px;	
 	padding: 0;
 }
