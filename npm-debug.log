@@ -19,23 +19,23 @@
 7 verbose parsed url   href: '.' }
 8 silly lockFile 3a52ce78- .
 9 verbose lock . /home/adminuser/.npm/3a52ce78-.lock
-10 verbose tar pack [ '/home/adminuser/tmp/npm-3544-SJfePxM3/1421663848275-0.9360707455780357/tmp.tgz',
+10 verbose tar pack [ '/home/adminuser/tmp/npm-3541-2axswAVq/1421754208940-0.1398295471444726/tmp.tgz',
 10 verbose tar pack   '.' ]
-11 verbose tarball /home/adminuser/tmp/npm-3544-SJfePxM3/1421663848275-0.9360707455780357/tmp.tgz
+11 verbose tarball /home/adminuser/tmp/npm-3541-2axswAVq/1421754208940-0.1398295471444726/tmp.tgz
 12 verbose folder .
 13 silly lockFile 1f1177db-tar tar://.
 14 verbose lock tar://. /home/adminuser/.npm/1f1177db-tar.lock
-15 silly lockFile 18f0fa6f-48275-0-9360707455780357-tmp-tgz tar:///home/adminuser/tmp/npm-3544-SJfePxM3/1421663848275-0.9360707455780357/tmp.tgz
-16 verbose lock tar:///home/adminuser/tmp/npm-3544-SJfePxM3/1421663848275-0.9360707455780357/tmp.tgz /home/adminuser/.npm/18f0fa6f-48275-0-9360707455780357-tmp-tgz.lock
+15 silly lockFile 54296ac5-08940-0-1398295471444726-tmp-tgz tar:///home/adminuser/tmp/npm-3541-2axswAVq/1421754208940-0.1398295471444726/tmp.tgz
+16 verbose lock tar:///home/adminuser/tmp/npm-3541-2axswAVq/1421754208940-0.1398295471444726/tmp.tgz /home/adminuser/.npm/54296ac5-08940-0-1398295471444726-tmp-tgz.lock
 17 silly lockFile 1f1177db-tar tar://.
 18 silly lockFile 1f1177db-tar tar://.
-19 silly lockFile 18f0fa6f-48275-0-9360707455780357-tmp-tgz tar:///home/adminuser/tmp/npm-3544-SJfePxM3/1421663848275-0.9360707455780357/tmp.tgz
-20 silly lockFile 18f0fa6f-48275-0-9360707455780357-tmp-tgz tar:///home/adminuser/tmp/npm-3544-SJfePxM3/1421663848275-0.9360707455780357/tmp.tgz
-21 verbose tar unpack /home/adminuser/tmp/npm-3544-SJfePxM3/1421663848275-0.9360707455780357/tmp.tgz
-22 silly lockFile 7ada8521-48275-0-9360707455780357-package tar:///home/adminuser/tmp/npm-3544-SJfePxM3/1421663848275-0.9360707455780357/package
-23 verbose lock tar:///home/adminuser/tmp/npm-3544-SJfePxM3/1421663848275-0.9360707455780357/package /home/adminuser/.npm/7ada8521-48275-0-9360707455780357-package.lock
-24 silly lockFile 18f0fa6f-48275-0-9360707455780357-tmp-tgz tar:///home/adminuser/tmp/npm-3544-SJfePxM3/1421663848275-0.9360707455780357/tmp.tgz
-25 verbose lock tar:///home/adminuser/tmp/npm-3544-SJfePxM3/1421663848275-0.9360707455780357/tmp.tgz /home/adminuser/.npm/18f0fa6f-48275-0-9360707455780357-tmp-tgz.lock
+19 silly lockFile 54296ac5-08940-0-1398295471444726-tmp-tgz tar:///home/adminuser/tmp/npm-3541-2axswAVq/1421754208940-0.1398295471444726/tmp.tgz
+20 silly lockFile 54296ac5-08940-0-1398295471444726-tmp-tgz tar:///home/adminuser/tmp/npm-3541-2axswAVq/1421754208940-0.1398295471444726/tmp.tgz
+21 verbose tar unpack /home/adminuser/tmp/npm-3541-2axswAVq/1421754208940-0.1398295471444726/tmp.tgz
+22 silly lockFile 239ad639-08940-0-1398295471444726-package tar:///home/adminuser/tmp/npm-3541-2axswAVq/1421754208940-0.1398295471444726/package
+23 verbose lock tar:///home/adminuser/tmp/npm-3541-2axswAVq/1421754208940-0.1398295471444726/package /home/adminuser/.npm/239ad639-08940-0-1398295471444726-package.lock
+24 silly lockFile 54296ac5-08940-0-1398295471444726-tmp-tgz tar:///home/adminuser/tmp/npm-3541-2axswAVq/1421754208940-0.1398295471444726/tmp.tgz
+25 verbose lock tar:///home/adminuser/tmp/npm-3541-2axswAVq/1421754208940-0.1398295471444726/tmp.tgz /home/adminuser/.npm/54296ac5-08940-0-1398295471444726-tmp-tgz.lock
 26 silly gunzTarPerm modes [ '755', '644' ]
 27 silly gunzTarPerm extractEntry package.json
 28 silly gunzTarPerm modified mode [ 'package.json', 436, 420 ]
@@ -70,31 +70,31 @@
 57 silly gunzTarPerm modified mode [ 'lib/web/js/flot/jquery.flot.tooltip.min.js', 436, 420 ]
 58 silly gunzTarPerm extractEntry tests/leaky.js
 59 silly gunzTarPerm modified mode [ 'tests/leaky.js', 436, 420 ]
-60 silly lockFile 7ada8521-48275-0-9360707455780357-package tar:///home/adminuser/tmp/npm-3544-SJfePxM3/1421663848275-0.9360707455780357/package
-61 silly lockFile 7ada8521-48275-0-9360707455780357-package tar:///home/adminuser/tmp/npm-3544-SJfePxM3/1421663848275-0.9360707455780357/package
-62 silly lockFile 18f0fa6f-48275-0-9360707455780357-tmp-tgz tar:///home/adminuser/tmp/npm-3544-SJfePxM3/1421663848275-0.9360707455780357/tmp.tgz
-63 silly lockFile 18f0fa6f-48275-0-9360707455780357-tmp-tgz tar:///home/adminuser/tmp/npm-3544-SJfePxM3/1421663848275-0.9360707455780357/tmp.tgz
-64 verbose tar pack [ '/home/adminuser/.npm/memtrack/0.1.6/package.tgz',
-64 verbose tar pack   '/home/adminuser/tmp/npm-3544-SJfePxM3/1421663848275-0.9360707455780357/package' ]
-65 verbose tarball /home/adminuser/.npm/memtrack/0.1.6/package.tgz
-66 verbose folder /home/adminuser/tmp/npm-3544-SJfePxM3/1421663848275-0.9360707455780357/package
-67 silly lockFile 7ada8521-48275-0-9360707455780357-package tar:///home/adminuser/tmp/npm-3544-SJfePxM3/1421663848275-0.9360707455780357/package
-68 verbose lock tar:///home/adminuser/tmp/npm-3544-SJfePxM3/1421663848275-0.9360707455780357/package /home/adminuser/.npm/7ada8521-48275-0-9360707455780357-package.lock
-69 silly lockFile 4953953f-r-npm-memtrack-0-1-6-package-tgz tar:///home/adminuser/.npm/memtrack/0.1.6/package.tgz
-70 verbose lock tar:///home/adminuser/.npm/memtrack/0.1.6/package.tgz /home/adminuser/.npm/4953953f-r-npm-memtrack-0-1-6-package-tgz.lock
-71 silly lockFile 7ada8521-48275-0-9360707455780357-package tar:///home/adminuser/tmp/npm-3544-SJfePxM3/1421663848275-0.9360707455780357/package
-72 silly lockFile 7ada8521-48275-0-9360707455780357-package tar:///home/adminuser/tmp/npm-3544-SJfePxM3/1421663848275-0.9360707455780357/package
-73 silly lockFile 4953953f-r-npm-memtrack-0-1-6-package-tgz tar:///home/adminuser/.npm/memtrack/0.1.6/package.tgz
-74 silly lockFile 4953953f-r-npm-memtrack-0-1-6-package-tgz tar:///home/adminuser/.npm/memtrack/0.1.6/package.tgz
-75 silly lockFile 98e6c2ff-nuser-npm-memtrack-0-1-6-package /home/adminuser/.npm/memtrack/0.1.6/package
-76 verbose lock /home/adminuser/.npm/memtrack/0.1.6/package /home/adminuser/.npm/98e6c2ff-nuser-npm-memtrack-0-1-6-package.lock
-77 silly lockFile 98e6c2ff-nuser-npm-memtrack-0-1-6-package /home/adminuser/.npm/memtrack/0.1.6/package
-78 silly lockFile 98e6c2ff-nuser-npm-memtrack-0-1-6-package /home/adminuser/.npm/memtrack/0.1.6/package
-79 verbose tar unpack /home/adminuser/.npm/memtrack/0.1.6/package.tgz
-80 silly lockFile 2c87ae50-nuser-npm-memtrack-0-1-6-package tar:///home/adminuser/.npm/memtrack/0.1.6/package
-81 verbose lock tar:///home/adminuser/.npm/memtrack/0.1.6/package /home/adminuser/.npm/2c87ae50-nuser-npm-memtrack-0-1-6-package.lock
-82 silly lockFile 4953953f-r-npm-memtrack-0-1-6-package-tgz tar:///home/adminuser/.npm/memtrack/0.1.6/package.tgz
-83 verbose lock tar:///home/adminuser/.npm/memtrack/0.1.6/package.tgz /home/adminuser/.npm/4953953f-r-npm-memtrack-0-1-6-package-tgz.lock
+60 silly lockFile 239ad639-08940-0-1398295471444726-package tar:///home/adminuser/tmp/npm-3541-2axswAVq/1421754208940-0.1398295471444726/package
+61 silly lockFile 239ad639-08940-0-1398295471444726-package tar:///home/adminuser/tmp/npm-3541-2axswAVq/1421754208940-0.1398295471444726/package
+62 silly lockFile 54296ac5-08940-0-1398295471444726-tmp-tgz tar:///home/adminuser/tmp/npm-3541-2axswAVq/1421754208940-0.1398295471444726/tmp.tgz
+63 silly lockFile 54296ac5-08940-0-1398295471444726-tmp-tgz tar:///home/adminuser/tmp/npm-3541-2axswAVq/1421754208940-0.1398295471444726/tmp.tgz
+64 verbose tar pack [ '/home/adminuser/.npm/memtrack/0.1.8/package.tgz',
+64 verbose tar pack   '/home/adminuser/tmp/npm-3541-2axswAVq/1421754208940-0.1398295471444726/package' ]
+65 verbose tarball /home/adminuser/.npm/memtrack/0.1.8/package.tgz
+66 verbose folder /home/adminuser/tmp/npm-3541-2axswAVq/1421754208940-0.1398295471444726/package
+67 silly lockFile 239ad639-08940-0-1398295471444726-package tar:///home/adminuser/tmp/npm-3541-2axswAVq/1421754208940-0.1398295471444726/package
+68 verbose lock tar:///home/adminuser/tmp/npm-3541-2axswAVq/1421754208940-0.1398295471444726/package /home/adminuser/.npm/239ad639-08940-0-1398295471444726-package.lock
+69 silly lockFile e28a325c-r-npm-memtrack-0-1-8-package-tgz tar:///home/adminuser/.npm/memtrack/0.1.8/package.tgz
+70 verbose lock tar:///home/adminuser/.npm/memtrack/0.1.8/package.tgz /home/adminuser/.npm/e28a325c-r-npm-memtrack-0-1-8-package-tgz.lock
+71 silly lockFile 239ad639-08940-0-1398295471444726-package tar:///home/adminuser/tmp/npm-3541-2axswAVq/1421754208940-0.1398295471444726/package
+72 silly lockFile 239ad639-08940-0-1398295471444726-package tar:///home/adminuser/tmp/npm-3541-2axswAVq/1421754208940-0.1398295471444726/package
+73 silly lockFile e28a325c-r-npm-memtrack-0-1-8-package-tgz tar:///home/adminuser/.npm/memtrack/0.1.8/package.tgz
+74 silly lockFile e28a325c-r-npm-memtrack-0-1-8-package-tgz tar:///home/adminuser/.npm/memtrack/0.1.8/package.tgz
+75 silly lockFile 32356acf-nuser-npm-memtrack-0-1-8-package /home/adminuser/.npm/memtrack/0.1.8/package
+76 verbose lock /home/adminuser/.npm/memtrack/0.1.8/package /home/adminuser/.npm/32356acf-nuser-npm-memtrack-0-1-8-package.lock
+77 silly lockFile 32356acf-nuser-npm-memtrack-0-1-8-package /home/adminuser/.npm/memtrack/0.1.8/package
+78 silly lockFile 32356acf-nuser-npm-memtrack-0-1-8-package /home/adminuser/.npm/memtrack/0.1.8/package
+79 verbose tar unpack /home/adminuser/.npm/memtrack/0.1.8/package.tgz
+80 silly lockFile 356d9c41-nuser-npm-memtrack-0-1-8-package tar:///home/adminuser/.npm/memtrack/0.1.8/package
+81 verbose lock tar:///home/adminuser/.npm/memtrack/0.1.8/package /home/adminuser/.npm/356d9c41-nuser-npm-memtrack-0-1-8-package.lock
+82 silly lockFile e28a325c-r-npm-memtrack-0-1-8-package-tgz tar:///home/adminuser/.npm/memtrack/0.1.8/package.tgz
+83 verbose lock tar:///home/adminuser/.npm/memtrack/0.1.8/package.tgz /home/adminuser/.npm/e28a325c-r-npm-memtrack-0-1-8-package-tgz.lock
 84 silly gunzTarPerm modes [ '755', '644' ]
 85 silly gunzTarPerm extractEntry package.json
 86 silly gunzTarPerm extractEntry README.md
@@ -114,17 +114,17 @@
 100 silly gunzTarPerm extractEntry lib/web/js/flot/jquery.flot.time.min.js
 101 silly gunzTarPerm extractEntry lib/web/js/flot/jquery.flot.tooltip.min.js
 102 silly gunzTarPerm extractEntry tests/leaky.js
-103 silly lockFile 2c87ae50-nuser-npm-memtrack-0-1-6-package tar:///home/adminuser/.npm/memtrack/0.1.6/package
-104 silly lockFile 2c87ae50-nuser-npm-memtrack-0-1-6-package tar:///home/adminuser/.npm/memtrack/0.1.6/package
-105 silly lockFile 4953953f-r-npm-memtrack-0-1-6-package-tgz tar:///home/adminuser/.npm/memtrack/0.1.6/package.tgz
-106 silly lockFile 4953953f-r-npm-memtrack-0-1-6-package-tgz tar:///home/adminuser/.npm/memtrack/0.1.6/package.tgz
-107 verbose chmod /home/adminuser/.npm/memtrack/0.1.6/package.tgz 644
-108 verbose chown /home/adminuser/.npm/memtrack/0.1.6/package.tgz [ 1000, 1000 ]
+103 silly lockFile 356d9c41-nuser-npm-memtrack-0-1-8-package tar:///home/adminuser/.npm/memtrack/0.1.8/package
+104 silly lockFile 356d9c41-nuser-npm-memtrack-0-1-8-package tar:///home/adminuser/.npm/memtrack/0.1.8/package
+105 silly lockFile e28a325c-r-npm-memtrack-0-1-8-package-tgz tar:///home/adminuser/.npm/memtrack/0.1.8/package.tgz
+106 silly lockFile e28a325c-r-npm-memtrack-0-1-8-package-tgz tar:///home/adminuser/.npm/memtrack/0.1.8/package.tgz
+107 verbose chmod /home/adminuser/.npm/memtrack/0.1.8/package.tgz 644
+108 verbose chown /home/adminuser/.npm/memtrack/0.1.8/package.tgz [ 1000, 1000 ]
 109 silly lockFile 3a52ce78- .
 110 silly lockFile 3a52ce78- .
 111 silly publish { name: 'memtrack',
 111 silly publish   description: 'Plot memory usage of a Node.js program over time. Highlight memory leaks and leaking objects.',
-111 silly publish   version: '0.1.6',
+111 silly publish   version: '0.1.8',
 111 silly publish   author:
 111 silly publish    { name: 'TechYugadi IT Solutions and Consulting',
 111 silly publish      email: 'techyugadi@gmail.com',
@@ -144,19 +144,19 @@
 111 silly publish   readme: '# memtrack\n\nmemtrack is a node module for plotting memory usage over time for a Node.js program. It also highlights memory leaks and indicates the \ntype of objects that are contributing to memory growth.\n\nThis module uses memwatch module and process.memoryUsage() function to pull out useful stats.\n\nTHE MODULE IS EXPERIMENTAL, AND WILL GO THROUGH MORE TESTING AND NECESSARY ENHANCEMENTS.\n\n# Installation\n\n\tnpm install memtrack\n\n# Usage\n\nThe following call should be placed before any other require statement in your application, e.g. at the first line of your main module\n\n```js\nrequire(\'memtrack\').start();\n```\n\nmemtrack will be started as a web server on port `7575`, you can access it by pointing your browser to: `http://[yourhost]:7575`. \n\nYou will see a log message on the console like : memtrack started on 0.0.0.0:7575\n\nYou will find a graph plotting the heap memory usage over time and a bar chart showing objects contributing to memory growth.\n\nTo obtain additional debug messages at runtime, run your node js program as follows : DEBUG=*; node mynodeprogram\n\n# Options\n\n  - `port` Listening port, defaulting to `7575`\n  - `host` Listening host, defaulting to `0.0.0.0`\n  - `memInterval` Time interval in milliseconds for invoking process.memoryUsage() defaulting to `2*60*1000`, that is 2 minutes. Actually,\n    if you set memInterval below 2 minutes, it is reset to 2 minutes (in order to limit the frequency of calling process.memUsage() ).\n\n```js\nrequire(\'memtrack\')({port:7373, memInterval:180000});\n```\n\n# Additional Features\n\nYou will receive an alert on the memtrack webpage, if the heap memory used exceeds 50% of your RAM.\n\nAt least three hours of memory stats are saved in memory while your Node program is running. So, if you start your Node.js program and then connect to memtrack from a browser much later, you still get graphical view of the most recent memory usage stats.\n\n# Testing\n\nAn example program has been taken from the memwatch source. The relevant file is tests/leaky.js . To see how memtrack works, run the command : node leaky , and point your browser to http://localhost:7575 (Allow for a delay of about 5 minutes for any useful data to show up.)\n',
 111 silly publish   readmeFilename: 'README.md',
 111 silly publish   bugs: { url: 'https://github.com/techyugadi/memtrack/issues' },
-111 silly publish   _id: 'memtrack@0.1.6',
-111 silly publish   dist: { shasum: 'c8401659912b87bd9c24d1f193130da13e9ac093' },
+111 silly publish   _id: 'memtrack@0.1.8',
+111 silly publish   dist: { shasum: '5374e7f419ae77784370bf0f14e60bf4b54fe8d4' },
 111 silly publish   _from: '.' }
 112 verbose url raw memtrack
 113 verbose url resolving [ 'https://registry.npmjs.org/', './memtrack' ]
 114 verbose url resolved https://registry.npmjs.org/memtrack
-115 info trying registry request attempt 1 at 05:37:29
+115 info trying registry request attempt 1 at 06:43:29
 116 http PUT https://registry.npmjs.org/memtrack
 117 http 201 https://registry.npmjs.org/memtrack
 118 verbose url raw memtrack
 119 verbose url resolving [ 'https://registry.npmjs.org/', './memtrack' ]
 120 verbose url resolved https://registry.npmjs.org/memtrack
-121 info trying registry request attempt 1 at 05:37:31
+121 info trying registry request attempt 1 at 06:43:32
 122 http GET https://registry.npmjs.org/memtrack
 123 http 200 https://registry.npmjs.org/memtrack
 124 error publish fail Cannot publish over existing version.
