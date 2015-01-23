@@ -16,7 +16,7 @@ THE MODULE IS EXPERIMENTAL, AND WILL GO THROUGH MORE TESTING AND NECESSARY ENHAN
 The following call should be placed before any other require statement in your application, e.g. at the first line of your main module
 
 ```js
-require('memtrack').start();
+require('memtrack')();
 ```
 
 memtrack will be started as a web server on port `7575`, you can access it by pointing your browser to: `http://[yourhost]:7575`. 
@@ -46,4 +46,4 @@ At least three hours of memory stats are saved in memory while your Node program
 
 # Testing
 
-An example program has been taken from the memwatch source. The relevant file is tests/leaky.js . To see how memtrack works, run the command : node leaky , and point your browser to http://localhost:7575 (Allow for a delay of about 5 minutes for any useful data to show up.)
+An example program has been taken from the memwatch source. The relevant file is tests/leaky.js . To see how memtrack works, run the command : node tests/leaky.js , and point your browser to http://localhost:7575 (Allow for a delay of about 5 minutes for any useful data to show up.)
