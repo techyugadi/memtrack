@@ -46,4 +46,22 @@ At least three hours of memory stats are saved in memory while your Node program
 
 # Testing
 
-An example program has been taken from the memwatch source. The relevant file is tests/leaky.js . To see how memtrack works, run the command : node tests/leaky.js , and point your browser to http://localhost:7575 (Allow for a delay of about 5 minutes for any useful data to show up.)
+An example program has been taken from the memwatch source. The relevant file is:
+
+tests/leaky.js
+
+To see how memtrack works, run the command: 
+
+node tests/leaky.js 
+
+and point your browser to 
+
+http://localhost:7575 
+
+(Allow for a delay of about 5 minutes for any useful data to show up.)
+
+# Screenshots
+
+You can find some screenshots of this tool here:
+
+http://techyugadi.net/nodejs/2015/03/19/memtrack/
