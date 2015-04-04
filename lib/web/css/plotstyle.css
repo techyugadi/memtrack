@@ -40,3 +40,5 @@ p#hdts {
 	margin: 15px;	
 	padding: 0;
 }
+
+.tickLabel { font-size: 75% }

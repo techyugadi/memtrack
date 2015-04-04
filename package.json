@@ -1,7 +1,7 @@
 {
 	"name": "memtrack",
 	"description": "Plot memory usage of a Node.js program over time. Highlight memory leaks and leaking objects.",
-	"version": "0.1.11",
+	"version": "0.1.12",
 	"author": {
 		"name": "TechYugadi IT Solutions and Consulting (www.techyugadi.com)",
 		"email": "techyugadi@gmail.com"

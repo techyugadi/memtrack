@@ -21,11 +21,15 @@ require('memtrack')();
 
 memtrack will be started as a web server on port `7575`, you can access it by pointing your browser to: `http://[yourhost]:7575`. 
 
-You will see a log message on the console like : memtrack started on 0.0.0.0:7575
+You will see a log message on the console like : 
+
+`memtrack started on 0.0.0.0:7575`
 
 You will find a graph plotting the heap memory usage over time and a bar chart showing objects contributing to memory growth.
 
-To obtain additional debug messages at runtime, run your node js program as follows : DEBUG=*; node mynodeprogram
+To obtain additional debug messages at runtime, run your node js program as follows : 
+
+`DEBUG=* node mynodeprogram`
 
 # Options
 
@@ -52,11 +56,11 @@ tests/leaky.js
 
 To see how memtrack works, run the command: 
 
-node tests/leaky.js 
+`node tests/leaky.js` 
 
 and point your browser to 
 
-http://localhost:7575 
+`http://localhost:7575` 
 
 (Allow for a delay of about 5 minutes for any useful data to show up.)
 
